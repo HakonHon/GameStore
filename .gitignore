@@ -1,0 +1,10 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+# macOS
+.DS_Store
+
+# Lokale Rider-innstillinger
+.idea/
